@@ -1,2 +1,3 @@
-# MY-SHOPE
- 
+# MY-SHOP
+STATIC WEBSITE FOR SHOPING 
+USE html and css 
